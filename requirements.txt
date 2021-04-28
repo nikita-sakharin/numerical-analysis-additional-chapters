@@ -1,5 +1,4 @@
 pip~=21.0.1
 wheel~=0.36.2
-numpy~=1.14.6
-matplotlib~=2.2.5
-# pyinterval~=1.2.0
+numpy~=1.19.5
+matplotlib~=3.3.4
